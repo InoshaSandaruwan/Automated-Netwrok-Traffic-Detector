@@ -1,4 +1,4 @@
-### **Updated Project Overview:**
+### **Project Overview:**
 
 In this project, I developed a **Network Traffic Detection System** that helps identify suspicious or malicious network traffic in real-time. The system is built using **Wireshark**, **Scapy**, and **Python** to analyze network packets. It focuses on detecting network threats such as **port scans**, **UDP scans**, **ICMP traffic**, and other **anomalous activities** that might indicate attacks or security breaches in a network environment.
 
