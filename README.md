@@ -42,19 +42,19 @@ Here’s the **Installation & Usage Guide** for `Detect.py` to include in your *
 
 # 🚀 Installation & Usage Guide  
 
-## 📌 Prerequisites  
+##  Prerequisites  
 Ensure you have the following installed:  
 - **Python 3.x**  
 - **Wireshark** (for packet analysis)  
 - **Scapy** (for network packet manipulation)  
 
-### 🔧 Install Required Dependencies  
+###  Install Required Dependencies  
 ```bash
 sudo apt update && sudo apt install tshark -y
 pip install scapy
 ```
 
-## 📂 Clone the Repository  
+##  Clone the Repository  
 ```bash
 git clone https://github.com/InoshaSandaruwan/Network-Traffic-Detection.git
 cd Network-Traffic-Detection
@@ -73,9 +73,6 @@ sudo python3 Detect.py
 - Excludes **normal web browsing traffic**  
 - Logs **suspicious activities** to `alert.log`  
 
-## 🛑 Stopping the Detection  
+##  Stopping the Detection  
 To **stop** the detection system, press **Ctrl + C**.  
 
----
-
-Let me know if you need further modifications! 🚀
